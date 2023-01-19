@@ -7,7 +7,7 @@ tictactoe_learning.py can be used for Monte Carlo reinforcement learning by tuni
 # Usage
 The game starts when tictactoe_game.py is executed with images, music, and Q_function in the same hierarchy.
 
-#Handling 
+# Handling 
 tictactoe_game.py starts the game when you click on the difficulty level. The game can be played backwards and marks can be placed by clicking anywhere. 
 After the winner is determined, click again to go to the difficulty selection screen. The escape key ends the game.
 
