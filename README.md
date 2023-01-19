@@ -17,6 +17,7 @@ After the winner is determined, click again to go to the difficulty selection sc
 
 # Reference
 斎藤康毅.ゼロから作るDeepLearning④.株式会社オライリー・ジャパン.2022
+
 にしまつ.まるばつゲームを強化学習で実装する(Python).https://note.com/daikinishimatsu/n/n749a6f743a9f
 
 BGM by OtoLogic(CC BY4.0)
